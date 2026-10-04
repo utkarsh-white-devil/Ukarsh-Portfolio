@@ -7,7 +7,7 @@ This portfolio showcases my skills, projects, education, and journey as a **Comp
 ## 🚀 Live Portfolio
 
 🔗 **View my portfolio:**
-https://github.com/utkarsh-white-devil/Ukarsh-Portfolio
+https://github.com/utkarsh-white-devil/Utkarsh-Portfolio
 
 
 ## 👨‍💻 About Me
