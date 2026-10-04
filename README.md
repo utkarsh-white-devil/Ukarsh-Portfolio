@@ -79,8 +79,8 @@ student-portfolio/
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/)
-* 🐙 GitHub: [Your GitHub](https://github.com/)
+* 💼 LinkedIn: www.linkedin.com/in/utkarsh-singh-a1ba85426
+* 🐙 GitHub: https://github.com/utkarsh-white-devil
 * 📸 Instagram: [Your Instagram](https://instagram.com/)
 
 ## 📜 License
